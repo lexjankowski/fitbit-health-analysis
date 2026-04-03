@@ -21,7 +21,7 @@ This project explores relationships between daily activity, heart rate, and slee
 - No meaningful relationship between steps and sleep duration
 
 ## 📁 Files
-- `[fitbit-analysis.ipynb](https://github.com/lexjankowski/fitbit-health-analysis/blob/main/exploring-activity-heart-rate-and-sleep-patterns.ipynb)` — full analysis notebook
+- `fitbit-analysis.ipynb` — full analysis notebook
 
 ## 🔗 Kaggle Notebook
 https://www.kaggle.com/code/alexyajankowski/exploring-activity-heart-rate-and-sleep-patterns
