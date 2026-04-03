@@ -24,4 +24,4 @@ This project explores relationships between daily activity, heart rate, and slee
 - `fitbit-analysis.ipynb` — full analysis notebook
 
 ## 🔗 Kaggle Notebook
-[Add your Kaggle link here]
+https://www.kaggle.com/code/alexyajankowski/exploring-activity-heart-rate-and-sleep-patterns
